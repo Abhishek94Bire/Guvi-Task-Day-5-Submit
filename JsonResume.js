@@ -3,7 +3,7 @@ let myResume = {
     {
       name: "AbhiBire",
       email: "AbhiBire94@gmail.com",
-      mobile: "123456789"
+      mobile: "9834549254"
     },
    profiles:
     {

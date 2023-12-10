@@ -1,6 +1,6 @@
 let details = [
     {
-    "name":"Hema",
+    "name":"Abhi",
     "email":"123@gmail.com",
     "mobile": ["12345", "98754"],
     "age":"25",
